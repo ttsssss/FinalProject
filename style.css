@@ -1,0 +1,53 @@
+* { cursor: crosshair; }
+
+
+body {
+    background-image: url("Images/peter-palmer-OQlPahHa7Bc-unsplash.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+ header{
+     margin-top: 75px;
+ }
+
+  
+ nav {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+ 
+ h1 {
+
+    color: rgb(185, 31, 206);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Lexend Mega', sans-serif;
+
+
+}
+
+.card-body {
+    background-color: rgb(185, 31, 206);
+}
+
+
+iframe {
+    margin-left: 260px;
+    margin-bottom: 20px;
+}
+
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+
+}
+
+
+  
